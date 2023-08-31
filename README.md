@@ -23,8 +23,8 @@
 
 🔷 Níveis de Acesso
 - Para acessar a aplicação existem dois atores, que são:
-   🔹 Administrador - Login: Administrador@gmail.com / Senha: 12345
-   🔹 Cliente - Tanto pode cadastrar um novo, quanto usar Login: teste@gmail.com / senha: 123
+   + Administrador - Login: Administrador@gmail.com / Senha: 12345
+   + Cliente - Tanto pode cadastrar um novo, quanto usar Login: teste@gmail.com / senha: 123
 - Todos os cadastros feitos na aplicação por enquanto, estão entrando como clientes, existe apenas 1 perfil de administrador para gerir o estoque e ser mostrado para os clientes.
 
 🔷 Endpoints
