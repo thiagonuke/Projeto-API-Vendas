@@ -8,9 +8,9 @@
 2. Configuração
 3. Níveis de Acesso
 4. Endpoint
-   • Estoque
-   • Clientes
-   • Vendas
+   - Estoque
+   - Clientes
+   - Vendas
    
 🔷 Visão Geral
 - A API de Gestão de Estoque e Vendas oferece funcionalidades para facilitar o gerenciamento de estoque e vendas de um negócio. Ela permite a adição, remoção e atualização de produtos, controle de estoque, cadastro de clientes.
