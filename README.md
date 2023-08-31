@@ -30,17 +30,17 @@
 🔷 Endpoints
 - A API oferece os seguintes endpoints principais:
   🔘Produtos:
-  • GET Loja/PesquisaProdutos: Retorna a lista de produtos disponíveis.
-  • POST Loja/CadastrarProduto: Adiciona um novo produto.
-  • PUT Loja/AtualizaProd: Atualiza os detalhes de um produto existente.
-  • DELETE Loja/ExcluirProd: Remove um produto do sistema.
+  + GET Loja/PesquisaProdutos: Retorna a lista de produtos disponíveis.
+  + POST Loja/CadastrarProduto: Adiciona um novo produto.
+  + PUT Loja/AtualizaProd: Atualiza os detalhes de um produto existente.
+  + DELETE Loja/ExcluirProd: Remove um produto do sistema.
   
   🔘Clientes/Cadastros:
-  • GET Loja/PesquisaUsuario: Retorna a lista de clientes cadastrados.
-  • POST Loja/CadastrarUsuario: Cadastra um novo cliente.
+  + GET Loja/PesquisaUsuario: Retorna a lista de clientes cadastrados.
+  + POST Loja/CadastrarUsuario: Cadastra um novo cliente.
   
   🔘Vendas:
-  • Loja/BaixaProdutos: Dá baixa nos produtos em estoque e registra uma nova venda.
+  + Loja/BaixaProdutos: Dá baixa nos produtos em estoque e registra uma nova venda.
 
 🔷 Contato
 - Se você tiver alguma dúvida ou precisar de suporte, entre em contato conosco em mthiago299@gmail.com
