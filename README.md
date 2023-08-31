@@ -19,7 +19,7 @@
 - Clone este repositório para o seu ambiente local.
 - Abra a solução em um ambiente de desenvolvimento.
 - Defina como projeto de inicialização a UI e a API.
-- Dentro do projeto da API, mude o arquivo appsettings.json para o caminho das pastas que se encontra o Desafio_Processo.db dentro de sua maquina.
+- Dentro do projeto da API, mude o arquivo appsettings.json para o caminho das pastas que se encontra o Desafio_Processo.db dentro de sua maquina, para assim fazer conexão com banco de dados.
 
 🔷 Níveis de Acesso
 - Para acessar a aplicação existem dois atores, que são:
